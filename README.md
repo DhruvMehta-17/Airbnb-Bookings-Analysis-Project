@@ -78,7 +78,8 @@ AirBnb
 
 * **Comprehensive Data Table:** A tabular view consolidates all key insights, providing a structured data summary.
 
-https://github.com/DhruvMehta-17/Airbnb-Bookings-Analysis-Project/commit/19dd7195ba10e2873025599cf063d360779fb688#diff-c07edeeeef771cc0d3f5c36c1d215d0a0bd80134520b68d65d13a52c39c05deb
+
+![Dashboard](https://github.com/user-attachments/assets/32c36905-0bb8-4e61-8838-69379414315f)
 
 
 # Conclusion
