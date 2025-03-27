@@ -77,7 +77,8 @@ AirBnb
 * **Price vs. Reviews Correlation:** Use a scatter plot to uncover relationships between pricing and guest reviews.
 
 * **Comprehensive Data Table:** A tabular view consolidates all key insights, providing a structured data summary.
-![image](https://github.com/user-attachments/assets/76f19228-4e55-466a-8c81-e82ebfee6c9c)
+
+Image/Dashboard.PNG
 
 
 # Conclusion
