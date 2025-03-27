@@ -77,6 +77,8 @@ AirBnb
 * **Price vs. Reviews Correlation:** Use a scatter plot to uncover relationships between pricing and guest reviews.
 
 * **Comprehensive Data Table:** A tabular view consolidates all key insights, providing a structured data summary.
+![image](https://github.com/user-attachments/assets/76f19228-4e55-466a-8c81-e82ebfee6c9c)
+
 
 # Conclusion
 This Power BI analysis offers valuable insights into **New York City's Airbnb market,** helping hosts and stakeholders make **data-driven decisions.** By understanding **pricing trends, demand patterns, and guest preferences,** users can optimize their strategies to stay competitive in this ever-evolving hospitality landscape.
