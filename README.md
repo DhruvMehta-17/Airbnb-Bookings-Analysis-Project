@@ -1,89 +1,73 @@
 # AirBnb-Bookings-Analysis-Project
 
-AirBnb
 
-# Table Of Contents
-* Introduction of Airbnb
-* About the Dataset
-* Python libraries used
-* Project Work flow
-* purpose of the analysis
-* Certificate
-  
-# Introduction of Airbnb
-* Airbnb is a popular online platform that allows individuals to list, discover, and book unique accommodations around the world. It was founded in 2008 by Brian Chesky, Joe Gebbia and     Nathan Blecharczyk, and has since become the largest and most successful home-sharing companies in the world.
 
-* Airbnb allows hosts to list their homes, apartments, or other properties for short-term rentals, and provides a platform for travelers to search for and book these accommodations. The     platform includes a variety of listing types, including entire homes, private rooms, and shared rooms, and offers a wide range of price points to suit different budgets.
+## Overview
+This project presents an in-depth analysis of the Airbnb bookings dataset from New York City (2019) using Power BI. The objective is to extract meaningful insights into pricing patterns, guest preferences, host behavior, and geographical trends to empower decision-making for both hosts and stakeholders in the NYC short-term rental market.
 
-* Airbnb has also become a popular choice for travelers who want to experience a destination like a local, rather than as a tourist. With more than four million listings in over 100,000    cities.
+**Dataset Used:** Airbnb NYC 2019 Dataset (48,895 records, 16 attributes)
 
-# About the Dataset – AIRBNB BOOKINGS
-## Dataset Information
-* Number of instances: 48895
-
-* Number of attributes: 16
-
-* The Data includes both categorical and numeric values, providing a diverse range of information about the listings.
-
-* This Dataset may be useful for analyzing trends and patterns in the Airbnb market in New York and also gain insights into the preferences and behavior of Airbnb users in the area.
-
-* This dataset contains information about Airbnb bookings in New York City in 2019. By analyzing this data, you may be able to understand the trends and patterns of Airbnb use in the NYC.
-
-# Different Python libraries used to complete this EDA:
-* Pandas
-
-* NumPy
-
-* Matplotlib.Pyplot
-
-* Seaborn
-
-# Project Work flow
-* Importing Libraries
-
-* Loading the Dataset
-
-* explore Dataset
-
-* Data Cleaning and manipulate
-
-* Handling Outliers
-
-* Data Visualization
-
-* Conclusion
-
-# The purpose of the analysis
-* understanding the factors that influence Airbnb prices in New York City, or identifying patterns of all variables and Our analysis provides useful information for travelers and hosts     in the city and also provides some best insights for Airbnb business.
-
-# Dashboard
-* Explore New York City's Airbnb market with this in-depth Power BI dashboard. This project analyzes a dataset with 15 key attributes, covering host details, pricing trends, reviews, and geographic distributions. Gain actionable insights into rental patterns, demand, and pricing strategies in NYC’s dynamic hospitality sector.
-  
-## Key Features
-* **Interactive Filters:** Use slicers for price and neighborhood groups to refine analysis and explore trends effortlessly.
-
-*  **Key Metrics Overview:** Get instant insights through card visuals, showcasing total listings, average price, host count, and neighborhood diversity.
-
-* **Review & Availability Trends:** Understand demand fluctuations using a line and stacked column chart, highlighting reviews vs. availability across neighborhoods.
-
-* **Price Distribution Analysis:** Identify pricing trends with stacked column charts, categorizing listings by neighborhood group.
-
-* **Room Type Composition:** Gain clarity on room type distribution using a donut chart, revealing market segmentation.
-
-* **Top Hosts & Reviews:** Analyze the most-reviewed hosts by neighborhood with a clustered bar chart to identify leading contributors.
-
-* **Geospatial Analysis:** Navigate Airbnb listings on an interactive map, pinpointing property density across NYC.
-
-* **Price vs. Reviews Correlation:** Use a scatter plot to uncover relationships between pricing and guest reviews.
-
-* **Comprehensive Data Table:** A tabular view consolidates all key insights, providing a structured data summary.
-
+## Tool Used: Microsoft Power BInclusion
 
 ![Dashboard](https://github.com/user-attachments/assets/32c36905-0bb8-4e61-8838-69379414315f)
 
+## Project Objective
+The primary goals of this project are:
 
-# Conclusion
-This Power BI analysis offers valuable insights into **New York City's Airbnb market,** helping hosts and stakeholders make **data-driven decisions.** By understanding **pricing trends, demand patterns, and guest preferences,** users can optimize their strategies to stay competitive in this ever-evolving hospitality landscape.
+📍 Explore Airbnb trends in NYC across different neighborhoods and room types.
 
-As NYC's short-term rental market continues to shift, leveraging these insights will be key to maximizing profitability and enhancing guest experiences. 
+💸 Understand the factors affecting pricing and review patterns.
+
+🏠 Examine host dynamics and guest preferences.
+
+🗺️ Leverage geospatial insights to study listing density and distribution.
+
+📊 Design a compelling Power BI dashboard to visualize and communicate findings interactively.
+
+
+## Tools & Technologies Used
+Python (Pandas, NumPy, Seaborn, Matplotlib) – For initial data cleaning and exploration
+
+Power BI – For creating interactive dashboards and visualizations
+
+## Key Dashboard Features
+🎛️ Interactive Filters: Slice by neighborhood groups and price ranges to explore data dynamically.
+
+📌 KPI Cards: Track total listings, average prices, active hosts, and borough diversity.
+
+🕒 Review & Availability Trends: Line and column charts to compare reviews and listing availability.
+
+💲 Price Distribution: Stacked column charts show pricing trends across NYC boroughs.
+
+🛏️ Room Type Analysis: Donut chart showing market segmentation by room type.
+
+🌍 Geospatial Heatmap: Pinpoint property clusters and listing densities using maps.
+
+🌟 Top Hosts: Identify the most reviewed hosts in each neighborhood via bar charts.
+
+📈 Correlation Insights: Use scatter plots to study the relationship between reviews and prices.
+
+📋 Detailed Data Table: All metrics summarized for granular understanding.
+
+## Analysis Highlights
+🏙️ Manhattan has the highest concentration of listings and prices.
+
+📉 Private rooms are more common but generate less revenue compared to entire apartments.
+
+📆 Most reviews are clustered around listings with high availability and good pricing.
+
+🧑‍💼 Certain hosts dominate listings in specific boroughs, signaling professional hosting.
+
+## Conclusion
+This Power BI dashboard offers valuable insights into Airbnb’s NYC ecosystem. From analyzing host distribution to understanding room-type dynamics and pricing trends, this project equips decision-makers with the tools to:
+
+Optimize rental pricing strategies
+
+Target ideal neighborhoods for listings
+
+Enhance guest satisfaction through data-driven service refinement
+
+As the NYC Airbnb market evolves, leveraging data like this will be critical to remain competitive and insightful in hospitality planning.
+
+. 
 
